@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1483457408 source:c:\users\fires\workspace\wyjatki\main.cpp
+	"header.hpp"
+
+1483457443 c:\users\fires\workspace\wyjatki\header.hpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	"Error.hpp"
+	"Student.hpp"
+
+1483427336 c:\users\fires\workspace\wyjatki\error.hpp
+
+1483457152 c:\users\fires\workspace\wyjatki\student.hpp
+
